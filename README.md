@@ -45,3 +45,5 @@ El carrito de compras permite:
 ## Objetivo del proyecto
 
 Este proyecto fue desarrollado como práctica para fortalecer conocimientos en React y TypeScript, aplicando el manejo de estado, persistencia de datos y reutilización de lógica mediante Hooks personalizados en un caso de uso real: un carrito de compras para un catálogo de guitarras.
+
+## Se crearon dos ramas, una con el custom Hook y la otra con useReducer
